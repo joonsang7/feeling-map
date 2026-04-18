@@ -2,11 +2,9 @@ import sys
 sys.stdout.reconfigure(encoding="utf-8")
 
 from datetime import time
-
 from domain.category import Category
 from domain.shop_place import ShopPlace
 from map_facade import MapFacade
-
 
 
 
